@@ -1,0 +1,14 @@
+[package]
+name = "open-document"
+description = "Library to read and write documents compatible with the opendocument format."
+authors = ["Jeremie Drouet <jeremie.drouet@gmail.com>"]
+repository = "https://github.com/jdrouet/open-document"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+keywords = ["odt", "document"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
